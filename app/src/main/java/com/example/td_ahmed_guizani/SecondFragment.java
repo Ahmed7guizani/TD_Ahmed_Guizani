@@ -9,10 +9,8 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
 import androidx.navigation.fragment.NavHostFragment;
-import androidx.navigation.fragment.navArgs;
 
 import java.util.Random;
-
 public class SecondFragment extends Fragment {
 
     @Override
